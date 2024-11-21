@@ -1,0 +1,49 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "private/template",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": true,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "private/template",
+      "template": "private/template/word.md"
+    },
+    {
+      "folder": "private/",
+      "template": "private/template/tech.md"
+    },
+    {
+      "folder": "",
+      "template": "private/template/note.md"
+    },
+    {
+      "folder": "",
+      "template": "private/template/a.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "private/template/a.md"
+  ]
+}

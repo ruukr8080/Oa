@@ -1,0 +1,87 @@
+{
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "markdown:toggle-preview": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "language-translator:language-translator-editor-command": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "n"
+    },
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Insert"
+    }
+  ],
+  "editor:toggle-fold-properties": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Home"
+    }
+  ],
+  "workspace:new-tab": [],
+  "translate:translator-selection-default": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "X"
+    }
+  ],
+  "editor:open-link-in-new-window": [],
+  "workspace:open-in-new-window": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "workspace:move-to-new-window": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "outline:open-for-current": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "new-note-folder": "private",
+  "new-note-template": "private/template/무제 파일.md",
+  "tag-sort": [
+    {
+      "tag": "word"
+    },
+    {
+      "tag": "tech"
+    }
+  ],
+  "new-line-trigger": "enter"
+}
