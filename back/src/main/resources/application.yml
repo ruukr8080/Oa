@@ -1,0 +1,15 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: 595008931657-e4485u4349hmq2957ue4nvhgj0ln5uji.apps.googleusercontent.com
+            client-secret: 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
+            scope:
+              - email
+              - profile
+jwt:
+  secret:  secret-Key-secret-Key-secret-Key-secret-Key-secret-Key-secret-Key-secret-Key-secretKey-secret-Key-secret-Key
+  token-validity-in-seconds: 86400  # 24시간
+

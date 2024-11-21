@@ -11,10 +11,15 @@
             "id": "cde03eef2f123550",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "연구자료/스크립트/개발_및_심리측정적_속성.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "개발_및_심리측정적_속성"
             }
           }
         ]
@@ -247,20 +252,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bb683e2f4616d4bc",
+  "active": "cde03eef2f123550",
   "lastOpenFiles": [
+    "연구자료/스크립트/날리지큐브 연혁.md",
+    "연구자료/스크립트/침투적 사고 무의식.md",
+    "연구자료/참고 자료.md",
+    "프로젝트/일지.md",
+    "media/readme.png",
+    "media/Pasted image 20241115092804.png",
+    "프로젝트/개발환경.md",
     "README.MD.md~",
     "media/img.png",
     "img.png",
     "README.MD.md",
-    "프로젝트/일지.md",
     "프로젝트/세부 기능.md",
-    "프로젝트/개발환경.md",
     "프로젝트",
-    "연구자료/스크립트/침투적 사고 무의식.md",
-    "연구자료/스크립트/날리지큐브 연혁.md",
     "연구자료/스크립트/개발_및_심리측정적_속성.md",
-    "연구자료/참고 자료.md",
     "연구자료/스크립트",
     "연구자료",
     "시장분석/벤치 마킹.md",
@@ -269,11 +276,9 @@
     "시장분석",
     "media/초안/BM.md",
     "media/초안",
-    "media/readme.png",
     "media/Pasted image 20241115135911.png",
     "media/Pasted image 20241115134856.png",
     "media/Pasted image 20241115111419.png",
-    "media/Pasted image 20241115092804.png",
     "media",
     "readme.png",
     "시장분석/BM.md~",
